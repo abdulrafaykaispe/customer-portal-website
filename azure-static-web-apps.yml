@@ -1,0 +1,54 @@
+name: Azure Static Web Apps CI/CD
+
+pr:
+  branches:
+    include:
+      - $(BRANCH)
+trigger:
+  branches:
+    include:
+      - $(BRANCH)
+
+jobs:
+  - job: build_and_deploy_job
+    displayName: Build and Deploy Job
+    condition: or(eq(variables['Build.Reason'], 'Manual'),or(eq(variables['Build.Reason'], 'PullRequest'),eq(variables['Build.Reason'], 'IndividualCI')))
+    pool:
+      vmImage: ubuntu-latest
+    variables:
+      - group: Azure-Static-Web-Apps-red-dune-0b152ca10-variable-group
+
+    steps:
+      - checkout: self
+        submodules: true
+
+      # 🔹 Create an `.env` file with the required environment variables sdf
+      - script: |
+          echo "NEXT_PUBLIC_BASE_URL=$(NEXT_PUBLIC_BASE_URL)" >> .env
+          echo "NEXT_PUBLIC_PAYPAL_CLIENT_ID=$(NEXT_PUBLIC_PAYPAL_CLIENT_ID)" >> .env
+          echo "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=$(NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY)" >> .env
+          echo "FIREBASE_SERVICE_ACCOUNT=$(FIREBASE_SERVICE_ACCOUNT)" >> .env
+          ls
+          cat .env
+        displayName: "Create .env file in $(BRANCH)"
+
+      # 🔹 Install dependencies
+      - script: npm install
+        displayName: "Install Dependencies"
+
+      # 🔹 Build Next.js Application
+      - script: npm run build
+        displayName: "Build Next.js Application"
+
+      # 🔹 Deploy to Azure Static Web Apps
+      - task: AzureStaticWebApp@0
+        inputs:
+          azure_static_web_apps_api_token: $(AZURE_STATIC_WEB_APPS_API_TOKEN_RED_DUNE_0B152CA10)
+          deployment_environment: $(ENVIRONMENT)
+          app_location: "/" # App source code path
+          api_location: "" # API source code path (optional)
+          output_location: ".next" # Built Next.js output directory
+      #   env:
+      #     NEXT_PUBLIC_BASE_URL: $(NEXT_PUBLIC_BASE_URL)
+      #     NEXT_PUBLIC_PAYPAL_CLIENT_ID: $(NEXT_PUBLIC_PAYPAL_CLIENT_ID)
+      #     NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY: $(NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY)
