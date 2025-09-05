@@ -1,0 +1,1668 @@
+{
+  "homePage": {
+    "sectionOne": {
+      "mainImage": "/section-one-main-image.png",
+      "mainHeading": "Quick Self-Service for Order Tracking & Support",
+      "mainHighlight": "Customer Portal",
+      "mainParagraph": "KAISPE’s Customer Portal centralizes order tracking, payment management, and client communication in one secure platform. Give your customers the satisfaction of having access to invoices, shipment status, and account details—reducing support queries by 50%.",
+      "mainButtonText": "Book a Demo",
+      "mainButtonLink": "https://outlook.office365.com/book/KAISPE2606240@NETORGFT2992819.onmicrosoft.com/",
+      "secondaryButtonText": "Try For Free",
+      "secondaryButtonLink": "/pricing",
+      "youtubeVideoLink": "https://www.youtube.com/embed/hibVn5FaXNg?autoplay=1&mute=1"
+    },
+    "sectionTwo": {
+      "gridData": [
+        {
+          "icon": "/section-two-icon-one.svg",
+          "title": "Microsoft Azure Marketplace",
+          "href": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/kaispellc.kspcportal-am?tab=Overview",
+          "bgColor": "#F8EAE4",
+          "width": 40,
+          "height": 40
+        },
+        {
+          "icon": "/section-two-icon-one.svg",
+          "title": "Microsoft AppSource",
+          "href": "https://appsource.microsoft.com/en-us/product/web-apps/kaispellc.kspcportal-am?tab=Overview",
+          "bgColor": "#D0ECFC",
+          "width": 40,
+          "height": 40
+        },
+        {
+          "icon": "/section-two-icon-three.svg",
+          "title": "Software Advice",
+          "href": "https://www.softwareadvice.com/portal/customer-portal-profile/",
+          "bgColor": "#F9EEE7",
+          "width": 51,
+          "height": 45
+        },
+        {
+          "icon": "/section-two-icon-four.svg",
+          "title": "Get App",
+          "href": "https://www.getapp.com/it-management-software/a/customer-portal/",
+          "bgColor": "#F1F3F8",
+          "width": 50,
+          "height": 30
+        },
+        {
+          "icon": "/section-two-icon-five.svg",
+          "title": "TrustRadius",
+          "href": "https://www.trustradius.com/products/kaispe-customer-portal/pricing",
+          "bgColor": "#E2EAF4",
+          "width": 50,
+          "height": 33
+        },
+        {
+          "icon": "/section-two-icon-six.svg",
+          "title": "Get from G2",
+          "href": "https://www.g2.com/products/customer-portal/reviews",
+          "bgColor": "#F9E8EA",
+          "width": 49,
+          "height": 49
+        },
+        {
+          "icon": "/section-two-icon-seven.svg",
+          "title": "Capterra",
+          "href": "https://www.capterra.com/p/10011833/Customer-Portal/",
+          "bgColor": "#E1ECFE",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "icon": "/section-two-icon-eight.svg",
+          "title": "AWS Marketplace",
+          "href": "/",
+          "bgColor": "#F8EDE9",
+          "width": 50,
+          "height": 35
+        },
+        {
+          "icon": "/section-two-icon-nine.svg",
+          "title": "SaaSHub",
+          "href": "https://www.saashub.com/kaispe-customer-portal",
+          "bgColor": "#35478c14",
+          "width": 49,
+          "height": 50
+        }
+      ]
+    },
+    "sectionThree": {
+      "mainHeading": "A smarter way for suppliers to join and collaborate",
+      "mainHighlight": "KEY FEATURES",
+      "mainParagraph": "Give your customers an enhanced service experience by providing them with real-time access online order management portal. From task automation to complete user behavior analysis, give your clients complete transparency and take your order management up a notch with advanced KAISPE features",
+      "gridData": [
+        {
+          "icon": "/section-three-icon-one.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Enhanced Customer Experience",
+          "description": "Improve collaboration and communication to strengthen your customer relationships. We reduce the sales team’s workload and automate repetitive tasks for exceptional experiences",
+          "iconWidth": 36,
+          "iconHeight": 36
+        },
+        {
+          "icon": "/section-three-icon-two.svg",
+          "bgColor": "#FEAD44",
+          "title": "Self-Service Experience that Empowers Clients",
+          "description": "With KAISPE's intuitive Customer Portal, it's easy to eliminate the need for constant support, enhancing operational efficiency, and saving valuable time",
+          "iconWidth": 36,
+          "iconHeight": 36
+        },
+        {
+          "icon": "/section-three-icon-three.svg",
+          "bgColor": "#FF00FF",
+          "title": "Complete Customer's View at a Glance",
+          "description": "Get useful customer insights that help you understand customer behavior so you can provide tailored solutions and increase overall customer satisfaction",
+          "iconWidth": 36,
+          "iconHeight": 36
+        },
+        {
+          "icon": "/section-three-icon-four.svg",
+          "bgColor": "#5580FF",
+          "title": "Deliver a Modern Customer Experience",
+          "description": "The KAISPE Customer Portal evolves with your customers, ensuring every interaction is smooth, intuitive, and future-ready.",
+          "iconWidth": 34,
+          "iconHeight": 34
+        }
+      ],
+      "mainButtonText": "View All Features",
+      "mainButtonLink": "/solutions/benefits"
+    },
+    "sectionFour": {
+      "mainImage": "/section-four-main-image.png",
+      "mainHeading": "Self-Service Order Management: Track, Pay & Manage Quotes",
+      "mainParagraph": "It's easier than ever for the client to place their orders. Our KAISPE Customer Service Portal makes ordering simple and easy, allowing clients to submit product or service requests with necessary information, such as quantity, payment method, and shipping destination, all within a few clicks!",
+      "gridData": [
+        {
+          "icon": "/section-four-icon-one.svg",
+          "title": "Real-time Order Tracking",
+          "description": "Clients can track shipments and view their order history through the portal",
+          "width": 26,
+          "height": 27
+        },
+        {
+          "icon": "/section-four-icon-two.svg",
+          "title": "Automated Client Portal",
+          "description": "Systemize all invoicing, inventory, and approvals.",
+          "width": 26,
+          "height": 26
+        },
+        {
+          "icon": "/section-four-icon-three.svg",
+          "title": "Easy Order Management",
+          "description": "Easily manage and fulfill customer orders with our intuitive order tracking portal. Reduce errors, improve operations, and boost customer satisfaction.",
+          "width": 27,
+          "height": 26
+        }
+      ]
+    },
+    "sectionFive": {
+      "mainImage": "/section-five-main-image.png",
+      "mainHeading": "Advanced Ecommerce Capabilities for Your Clients",
+      "mainParagraph": "From browsing to checkout, the KAISPE Client Payment Portal offers an intuitive shopping cart experience with secure payments.  Provide automated shipping costs, making online purchasing fast and reliable for your customers",
+      "gridData": [
+        {
+          "icon": "/section-five-icon-one.svg",
+          "bgColor": "#473BF0",
+          "title": "Increase Sales and Expand Your Customer Base",
+          "description": "Ensure maximum client satisfaction that leads to customer retention. The KAISPE Client Portal Software helps you drive revenue and build stronger relationships.",
+          "width": 32,
+          "height": 30
+        },
+        {
+          "icon": "/section-five-icon-two.svg",
+          "bgColor": "#FEAD44",
+          "title": "Client Payment Portal",
+          "description": "Secure credit card processing, digital wallets, and automated tax calculations.",
+          "width": 31,
+          "height": 33
+        }
+      ],
+      "mainButtonText": "Try Today",
+      "mainButtonLink": "/contact"
+    },
+    "sectionSix": {
+      "mainHeading": "Transform Your Business with AI-Powered Solutions",
+      "mainParagraph": "Experience the future of efficiency and innovation with KAISPE Customer Portal. From predictive analytics to smart automation and an intelligent AI assistant, our solutions streamline operations, enhance decision-making, and deliver personalized experiences. Discover how AI can revolutionize your business today!",
+      "mainButtonText": "Learn More",
+      "mainButtonLink": "/solutions/ai-solutions"
+    },
+    "sectionSeven": {
+      "mainImage": "/section-seven-main-image.png",
+      "mainHeading": "Building Top-Notch Solutions For Better Software!",
+      "faqSection": [
+        {
+          "question": "Increased Client Retention",
+          "answer": "Providing clients with the highest level of convenience and satisfaction, and increasing sales"
+        },
+        {
+          "question": "Visualize Data with Clarity",
+          "answer": "Make better decisions faster with graphs, charts, and dashboards that highlight key insights at a glance."
+        },
+        {
+          "question": "Monitor Performance",
+          "answer": "Track your  order from scratch. From creation to dispatch."
+        },
+        {
+          "question": "Analytics",
+          "answer": "Collect, process, and interpret data to identify patterns and trends that drive smarter, more informed decisions."
+        },
+        {
+          "question": "Easy-to-Use Platform",
+          "answer": "It is an intuitive, user-friendly platform that ensures an exceptional user experience and easy navigation."
+        },
+        {
+          "question": "Data Representation",
+          "answer": "Organize and display data in an organized way for easy analysis and interpretation."
+        }
+      ]
+    },
+    "sectionEight": {
+      "mainHeading": "Building Innovative Solutions For Better Software!",
+      "mainParagraph": "Let your clients access the information they need—anytime, anywhere. A customer portal solution reduces the burden on your support team, saving time and cutting operational costs.",
+      "gridData": [
+        {
+          "icon": "/section-eight-icon-one.svg",
+          "description": "Empowering clients with self-service tools helps businesses reduce routine phone and email support requests.",
+          "width": 33,
+          "height": 32
+        },
+        {
+          "icon": "/section-eight-icon-two.svg",
+          "description": "By reducing basic inquiries, support teams can dedicate more time to resolving complex issues and enhancing the overall client experience.",
+          "width": 33,
+          "height": 34
+        },
+        {
+          "icon": "/section-eight-icon-three.svg",
+          "description": "With direct access to their information, clients can make updates, which reduces errors and improves communication accuracy.",
+          "width": 34,
+          "height": 33
+        }
+      ]
+    },
+    "sectionNine": {
+      "mainImage": "/section-nine-main-image.png",
+      "mainHeading": "Instant Access to Quotes and Account Information",
+      "mainParagraph": "Provide clients with a secure platform to easily view and update their account details, including order history, payment information, and personal preferences, minimizing the strain on your support team.",
+      "gridData": [
+        {
+          "icon": "/section-nine-icon-one.svg",
+          "title": "Minimize Payment Risks",
+          "description": "Reduce the likelihood of missed payments or late fees by giving clients the tools to manage their payments efficiently, benefiting both your business and customers",
+          "width": 29,
+          "height": 28
+        },
+        {
+          "icon": "/section-nine-icon-two.svg",
+          "title": "Enhance Operational Efficiency",
+          "description": "Boost operational efficiency by empowering clients to manage their accounts and data through a self-service portal, reducing the demand on your team.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/section-nine-icon-three.svg",
+          "title": "Self-Service Information Access",
+          "description": "Provide clients with quick access to the information they need, minimizing the need for direct contact and freeing up your team to focus on more complex issues.",
+          "width": 29,
+          "height": 27
+        }
+      ]
+    },
+    "sectionTen": {
+      "optionOne": {
+        "mainHeading": "Industries We Serve",
+        "mainHighlight": "INDUSTRIES",
+        "gridData": [
+          {
+            "image": "/section-ten-option-one-image-one.png",
+            "title": "Retail",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-two.png",
+            "title": "Distribution",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-three.png",
+            "title": "Construction",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-four.png",
+            "title": "Public Sector",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-five.png",
+            "title": "Mining",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-six.png",
+            "title": "Manufacturing",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-seven.png",
+            "title": "Automotive",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-eight.png",
+            "title": "Healthcare",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-nine.png",
+            "title": "Technology",
+            "width": 370,
+            "height": 408
+          },
+          {
+            "image": "/section-ten-option-one-image-ten.png",
+            "title": "Fashion & Apparel",
+            "width": 370,
+            "height": 408
+          }
+        ],
+        "secondaryHeading": "Empower Your Industries with All-In-One Seamless Solution",
+        "secondaryParagraph": "Empowering industries with purpose-built solutions, KAISPE delivers customer portal software to solve real-world challenges for retail order tracking, construction client collaboration, and healthcare payment management. Whether it's order tracking, payment management, or client collaboration, our tailored portals help you improve operations and enhance communication, delivering a unified experience through a single platform.",
+        "mainButtonText": "View Industries",
+        "mainButtonLink": "/industries"
+      },
+      "optionTwo": {
+        "mainImage": "/section-ten-option-two-main-image.png",
+        "mainHeading": "Integrate with your Existing Ecosystem for Seamless Operations",
+        "mainHighlight": "INTEGRATION",
+        "mainParagraph": "At KAISPE, we understand the challenges of managing multiple systems and processes in today’s fast-paced business world. That’s why we’ve designed our Customer Portal to integrate seamlessly with your existing infrastructure, helping you save time, reduce costs, and boost efficiency.",
+        "secondaryHeading": "Connect with your CRM, ERP, and inventory management systems for real-time data synchronization and streamlined workflows.",
+        "mainButtonText": "See Integrations",
+        "mainButtonLink": "/resources/integration"
+      },
+      "optionThree": {
+        "mainHeading": "Integrate Faster with Our API Documentation",
+        "mainParagraph": "Looking to connect your existing systems with the KAISPE Customer Portal? Our easy-to-follow API documentation makes it effortless to integrate with your ERP, CRM, or custom applications. Whether you're adding new workflows or syncing data across platforms, we've got you covered.",
+        "secondaryParagraph": "Start your integration journey today and unlock the full potential of our portal!",
+        "mainButtonText": "API Document",
+        "mainButtonLink": "https://cpdoc.kaispe.com/#introduction"
+      }
+    },
+    "sectionEleven": {
+      "mainImage": "/section-eleven-main-image.png",
+      "mainHeading": "Unlock the Full Potential of Your Operations",
+      "mainParagraph": "KAISPE’s feature-rich portal gives you complete control over order management, customer interactions, reporting, and more. Seamlessly integrate with your existing systems and streamline operations with intuitive tools.",
+      "mainButtonText": "Discover Capabilities",
+      "mainButtonLink": "/solutions/capabilities"
+    },
+    "sectionTwelve": {
+      "mainImage": "/section-twelve-main-image.png",
+      "mainHeading": "Smart Solutions for Every Business Challenge",
+      "mainParagraph": "Navigate the complexities of managing multiple systems with KAISPE’s integrated Customer Portal. From data organization to efficient workflows, we provide the tools to overcome common portal challenges and drive business success.",
+      "mainButtonText": "Learn More",
+      "mainButtonLink": "/solutions/insights"
+    },
+    "sectionThirteen": {
+      "optionOne": {
+        "mainImage": "/section-thirteen-option-one-main-image.png",
+        "mainHeading": "Streamlining Customer Experience: How KAISPE’s Customer Portal Transformed a Building Solutions Business",
+        "mainHighlight": "OUR HAPPY CLIENTS",
+        "mainParagraph": "Stevin Rock is one of the world’s largest crushed rock producers. They supply high-quality limestone, dolomite, and gabbro products to diverse industries like construction, steel, and cement. Facing inefficiencies due to an outdated ERP system without a modern Supplier Relationship Management (SRM) module.",
+        "mainButtonText": "Read More",
+        "mainButtonLink": "https://www.kaispe.com/stevin-rock-enhances-supplier-relationship-with-kaispes-cloud-based-srm-solution/"
+      },
+      "optionTwo": {
+        "mainImage": "/section-thirteen-option-two-main-image.png",
+        "mainHighlight": "CUSTOMER TESTIMONIAL",
+        "quoteIcon": "/section-thirteen-quote-icon.svg",
+        "review": "We've been working with the KAISPE team for over 2 years. Initially, we contracted them for their expertise in Power Platform, including Power Apps, Power BI, and Power Automate. Over time, our partnership has grown, and now the KAISPE team handles customer implementations for us. They’ve become a crucial part of our service offerings. Thank you, Imran, and the entire KAISPE team for making this partnership a success.",
+        "personImage": "/section-thirteen-person-image.svg",
+        "name": "Mike Marcin",
+        "designation": "Director of Business Development & Founder, Dynamic Point (Office 365 App Development Company)",
+        "videoPlayButton": "/section-thirteen-play-button.svg",
+        "videoLink": "https://www.youtube.com/embed/ojf2i4TIgFg?autoplay=1&mute=1"
+      }
+    },
+    "sectionFourteen": {
+      "mainHeading": "Transform the Way You Manage Customers and Operations",
+      "mainParagraph": "Improve efficiency, enhance customer satisfaction, and simplify your workflows. With KAISPE, experience the power of seamless order management, invoicing, and real-time analytics—all in one intuitive platform.",
+      "mainButtonText": "Learn More",
+      "mainButtonLink": "/solutions/benefits"
+    },
+    "sectionFifteen": {
+      "mainHeading": "Frequently Asked Questions",
+      "mainParagraph": "Find quick answers to common questions about the platform’s features, functionality, and support to help you get started with ease.",
+      "faqSection": [
+        {
+          "question": "How is this different from a supplier portal?",
+          "answer": "While a supplier portal focuses on vendor-side functions like submitting invoices and managing POs, the KAISPE Customer Portal is built for your customers to track orders, make payments, and manage their accounts—offering a full self-service experience."
+        },
+        {
+          "question": "Can this portal integrate with my procurement software?",
+          "answer": "Yes, our customer portal can be easily integrated with leading procurement software solutions, making it seamless to sync customer orders, inventory, and payment data across systems."
+        },
+        {
+          "question": "Does this portal support both customers and suppliers?",
+          "answer": "The customer portal is designed specifically for client-side interactions. However, KAISPE also offers a dedicated supplier portal solution for managing vendors, bids, and procurement tasks efficiently."
+        },
+        {
+          "question": "Will this portal help reduce procurement delays?",
+          "answer": "Yes. By giving customers real-time access to orders and status updates, the customer portal reduces back-and-forth communication and aligns with your procurement software to speed up decision-making and approvals."
+        },
+        {
+          "question": "Is this solution secure for managing customer and supplier data?",
+          "answer": "Absolutely. Both our customer portal and supplier portal are built with enterprise-grade security, ensuring that all your client and procurement-related data stays protected and compliant."
+        }
+      ]
+    },
+    "sectionSixteen": {
+      "mainHeading": "Try KAISPE for Free—No Strings Attached!",
+      "mainParagraph": "Experience the power of Customer Portal with our Free Plan. Get started today and explore essential features to manage your customer interactions, track orders, and streamline workflows. No commitment—just a simple, effective way to see how KAISPE portal can work for you.",
+      "mainButtonText": "Start Free Plan",
+      "mainButtonLink": "/pricing"
+    },
+    "sectionSeventeen": {
+      "mainHeading": "Ready to Simplify Order Tracking?",
+      "mainParagraph": "Let’s Connect with our team of experts "
+    }
+  },
+  "industriesPage": {
+    "bannerData": {
+      "mainHeading": "Industries We Serve",
+      "mainParagraph": "The KAISPE Customer Portal is a versatile solution designed to meet the unique needs of businesses across a wide range of industries. With flexible features that can be tailored to your specific requirements, KAISPE helps you streamline operations, foster stronger customer relationships, and drive better business outcomes. Here's how we can support your industry"
+    },
+    "sectionOne": {
+      "gridData": [
+        {
+          "image": "/industries/section-one-image-one.png",
+          "title": "Retail",
+          "description": "With KAISPE, retailers can simplify their procurement processes, gain valuable insights into product trends, and manage inventory with ease. Stay ahead of the competition by improving operational efficiency, enhancing customer experiences, and optimizing supply chains."
+        },
+        {
+          "image": "/industries/section-one-image-two.png",
+          "title": "Distribution",
+          "description": "KAISPE boosts logistics efficiency for distributors by offering real-time tracking, automated order management, and seamless communication with suppliers. Manage stock levels, orders, and deliveries with ease, ensuring timely fulfillment and reducing operational delays."
+        },
+        {
+          "image": "/industries/section-one-image-three.png",
+          "title": "Construction",
+          "description": "In the fast-paced construction industry, KAISPE ensures that materials are delivered on time and that your operations remain compliant with safety standards. Whether you're managing complex project timelines or coordinating with multiple suppliers, KAISPE helps you stay organized and efficient."
+        },
+        {
+          "image": "/industries/section-one-image-four.png",
+          "title": "Public Sector",
+          "description": "KAISPE helps public sector organizations improve procurement workflows, making the process more efficient and transparent. Whether it's managing contracts, tracking supplier performance, or ensuring accountability, KAISPE empowers government agencies and non-profits to streamline operations and improve public service delivery."
+        },
+        {
+          "image": "/industries/section-one-image-five.png",
+          "title": "Mining",
+          "description": "The mining industry requires managing complex supplier relationships while adhering to strict regulatory standards. KAISPE simplifies these processes by providing a centralized platform to manage orders, track compliance, and communicate with suppliers, all while keeping operations running smoothly."
+        },
+        {
+          "image": "/industries/section-one-image-six.png",
+          "title": "Manufacturing",
+          "description": "For manufacturers, maintaining a steady flow of materials is crucial to avoid production delays. KAISPE helps you manage supplier relationships more effectively, ensuring that orders are processed quickly, materials are delivered on time, and inventory is always well-stocked."
+        },
+        {
+          "image": "/industries/section-one-image-seven.png",
+          "title": "Automotive",
+          "description": "In the automotive industry, timely procurement of parts and components is critical to keeping production lines running smoothly. KAISPE simplifies the procurement process, ensuring parts are sourced and delivered on time, so you can focus on manufacturing and meeting customer demands."
+        },
+        {
+          "image": "/industries/section-one-image-eight.png",
+          "title": "Fashion & Apparel",
+          "description": "KAISPE helps fashion and apparel businesses manage seasonal collections, ensure quality control, and stay agile in response to industry trends. With better visibility into inventory, supplier relationships, and customer preferences, your business can stay on the cutting edge of fashion."
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainHeading": "Can't find your industry?",
+      "mainParagraph": "No problem! Contact us for expert advice on how the KAISPE Customer Portal can be customized to fit your business needs. We're here to help you optimize your customer management, no matter the industry",
+      "mainButtonText": "Contact us",
+      "mainButtonLink": "/contact"
+    },
+    "sectionThree": {
+      "mainHeading": "Why Choose KAISPE for Your Industry?",
+      "mainParagraph": "No matter your industry, KAISPE is the ideal solution for businesses looking to work smarter, stay organized, and strengthen customer relationships. Our Customer Portal offers flexible, customizable features that meet the specific needs of your business and drive better outcomes.",
+      "gridData": [
+        {
+          "icon": "/industries/section-three-icon-one.svg",
+          "title": "Seamless integration",
+          "description": "with existing workflows.",
+          "width": 54,
+          "height": 53
+        },
+        {
+          "icon": "/industries/section-three-icon-two.svg",
+          "title": "Real-time insights",
+          "description": "and analytics to optimize operations.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/industries/section-three-icon-three.svg",
+          "title": "Scalable solutions",
+          "description": "designed to grow with your business.",
+          "width": 54,
+          "height": 61
+        },
+        {
+          "icon": "/industries/section-three-icon-four.svg",
+          "title": "Improved communication",
+          "description": "with suppliers, customers, and teams.",
+          "width": 55,
+          "height": 54
+        }
+      ]
+    },
+    "sectionFour": {
+      "mainHeading": "Industry-Specific Integrations",
+      "mainParagraph": "Every industry has unique needs, and we've designed our API documentation to cater to them. Whether you're in retail, construction, or public sector, our APIs help you integrate faster and more efficiently, without the headaches.",
+      "mainButtonText": "API Document",
+      "mainButtonLink": "https://cpdoc.kaispe.com/#introduction"
+    }
+  },
+  "benefitsPage": {
+    "bannerData": {
+      "mainHeading": "Transform the Way You Manage Customers",
+      "mainParagraph": "Elevate your business with KAISPE's feature-rich Customer Portal, designed to simplify your operations and enhance customer satisfaction. By automating key processes and empowering your customers with easy access to essential information, the portal enables your business to run more efficiently and professionally. Here's how it benefits you"
+    },
+    "sectionOne": {
+      "gridData": [
+        {
+          "icon": "/solutions/benefits/section-one-icon-one.svg",
+          "title": "Streamlined Order Management",
+          "description": "Entrepreneur customers to access, track, and monitor their orders easily through the portal. With multiple business customers can follow every single of the local, process, ensuring a seamless experience and reducing its need for manual updates.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-two.svg",
+          "title": "End-to-End eCommerce Functionality",
+          "description": "Risks your online sales with enterprise eCommerce capabilities, including engaging cart management. Provide a seamless, all-in-one shipping experience for your customers, from product selection to payment, ensuring a smooth transaction every time.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-three.svg",
+          "title": "Automated Workflows to Save Time & Money",
+          "description": "Reduce your operational costs and minimize manual error by automatically sign internal processes. From dealer processing to invoicing, automation, mutual efficiency, accuracy, and faster harnessed times, allowing your team to focus on higher work rates.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-four.svg",
+          "title": "24/7 Customer Self-Service",
+          "description": "Allow your customers to store content as 24/7 access to their data and account details via the portal, wherever it is pending an order. Checking payment assets, or viewing invoices, your customers can access everything they need from any device, at any time.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-five.svg",
+          "title": "Enhanced Customer Service & Engagement",
+          "description": "Breeds your customer support with professional, proactive engagement, by offering easy access to account information, customers feel more confident and informed, improving satisfaction and loyalty.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-six.svg",
+          "title": "User-Friendly Portal Management",
+          "description": "The ASAPE portal is designed to be easy-to-use, allowing you to modify and manage the system independently, whether you’re dealing new features or adjusting settings, managing the portal is leader-free.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-seven.svg",
+          "title": "Simplified Online Payments",
+          "description": "Make transactions simple and secure. Customers can pay invoices online using a variety of payment methods, including signs, paying text credit cards, with flexible payment options, you can ensure a smooth, functioning payment experience.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-eight.svg",
+          "title": "Instant Access to Transaction History",
+          "description": "Provide customers with a clear overview of all transactions, enabling them to see orders, invoices, credit names, and payment history at a glance. This transparency builds trust and reduces customer queries.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-nine.svg",
+          "title": "Easy Access to Quotes & Account Information",
+          "description": "Customers can freely view quotes, past transactions, and upcoming payments—all in one place. This second-hand quotes means communication and allows your customers to make informed decisions quickly.",
+          "width": 54,
+          "height": 54
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-ten.svg",
+          "title": "Manage Orders, Invoices, & Payments Effortlessly",
+          "description": "Enable customers to view and pay existing invoice directly from the portal. With the ability to accept other details, invoices, and credit names at any time, your customers can manage their accounts with ease.",
+          "width": 45,
+          "height": 55
+        },
+        {
+          "icon": "/solutions/benefits/section-one-icon-eleven.svg",
+          "title": "Save Time & Money",
+          "description": "By offering self-service options, customers can access the information they need without relying on your team. This makes it the volume of phone and email inquiries, saving both time and resources while enhancing the overall customer experience.",
+          "width": 54,
+          "height": 54
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainHeading": "Transform Your Operations with AI-Driven Benefits",
+      "mainParagraph": "No problem! Contact us for expert advice on how the KAISPE Customer Portal can be customized to fit your business needs. We're here to help you optimize your customer management, no matter the industry",
+      "mainButtonText": "Contact Us",
+      "mainButtonLink": "/contact"
+    }
+  },
+  "capabilitesPage": {
+    "bannerData": {
+      "mainHeading": "Comprehensive Customer Portal Capabilities",
+      "mainParagraph": "Unlock the full potential of your customer relationships with KAISPE's intuitive Customer Portal. Designed to streamline processes, enhance customer interactions, and provide real-time insights, our portal is equipped with powerful features that help businesses thrive in today's fast-paced, digital world."
+    },
+    "sectionOne": {
+      "gridData": [
+        {
+          "icon": "/solutions/capabilities/section-one-icon-one.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Flexible Language Options",
+          "description": "The KAISPE Customer Portal supports multiple languages, offering a personalized experience for users in their preferred language. Manage global operations more effectively by catering to international customers with ease and ensuring smooth communication across regions.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-two.svg",
+          "bgColor": "#FEAD44",
+          "title": "Payment Integration for Seamless Transactions",
+          "description": "Make transactions smooth and secure with integrated payment solutions like PayPal, Stripe, and other popular payment gateways. Customers can pay invoices directly within the portal using their preferred payment method, ensuring a seamless and user-friendly checkout process. Stay on top of all payments and manage financial transactions effortlessly.",
+          "width": 41,
+          "height": 41
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-three.svg",
+          "bgColor": "#FF00FF",
+          "title": "Import and Export with Ease",
+          "description": "Quickly import and export key data—products, quotes, and orders—saving valuable time and reducing manual effort. Whether you're importing customer data or exporting orders to fulfillment centers, this feature makes bulk processing simple and efficient.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-four.svg",
+          "bgColor": "#5580FF",
+          "title": "Invoicing and Payment Management",
+          "description": "Generate invoices on the fly and send them directly to your customers from the portal. With automated invoicing features, your team saves time while customers can view, download, and pay invoices securely via Stripe or PayPal. No more manual invoicing or delays—everything is streamlined for ease of use.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-five.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Customer Profile Management",
+          "description": "Maintain an organized, centralized record of all customer information. From contact details to purchase history and preferences, your team can easily track and update profiles to personalize customer interactions and improve service quality.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-six.svg",
+          "bgColor": "#FEAD44",
+          "title": "Roles & Permissions Configurations",
+          "description": "Set up custom roles and permissions to control access within the portal. Ensure that the right people have access to the right data, whether it's a customer, warehouse manager, or sales representative. You can assign granular roles to protect sensitive information and ensure smooth, secure operations.",
+          "width": 38,
+          "height": 38
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-seven.svg",
+          "bgColor": "#FF00FF",
+          "title": "User Authentication & Security",
+          "description": "Prioritize security with robust user authentication features. From secure login processes to Single Sign-On (SSO) configuration, your portal will protect sensitive data, ensuring that only authorized users can access your systems.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-eight.svg",
+          "bgColor": "#5580FF",
+          "title": "Warehouse, Site & Setup Data Configuration",
+          "description": "Easily configure warehouse, site, and other business-related data in the portal. Tailor the platform to your unique business needs, whether it's adding new warehouse locations, managing inventory, or setting up custom sites for specific regions.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-nine.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Real-Time Dashboard and Analytics",
+          "description": "Gain deeper insights into your business performance with a powerful dashboard. The real-time analytics engine allows you to monitor key metrics, such as sales performance, order statuses, inventory levels, and customer activity, all in one place. Generate reports to track KPIs, identify trends, and make data-driven decisions.",
+          "width": 31,
+          "height": 31
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-ten.svg",
+          "bgColor": "#FEAD44",
+          "title": "Order Management & Reporting",
+          "description": "Import and export orders with ease. Clone orders to quickly replicate successful transactions or recurring orders. Additionally, generate customized reports on orders, payments, and customer interactions to help you understand your business better and plan for future growth.",
+          "width": 37,
+          "height": 37
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-eleven.svg",
+          "bgColor": "#FF00FF",
+          "title": "Comprehensive Product & Inventory Management",
+          "description": "Efficiently manage products and inventory with a dedicated product section. From adding new products to updating existing inventory, everything is easily accessible. Real-time updates allow you to track stock levels, manage backorders, and ensure your customers always get what they need. Bulk product imports and exporting are also available for fast updates.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-twelve.svg",
+          "bgColor": "#5580FF",
+          "title": "Customer Statements & Payment History",
+          "description": "Empower customers to view and generate statements and track their payment history directly within the portal. This feature enhances transparency, reduces customer service queries, and fosters trust by providing clear, accessible financial records.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-thirteen.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Seamless ERP Integration",
+          "description": "Integrate your portal seamlessly with other ERP systems to centralize all your business data in one place. Improve workflow, reduce data silos, and streamline operations between your customer portal, inventory system, and other critical business applications.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-fourteen.svg",
+          "bgColor": "#FEAD44",
+          "title": "Support Availability and Communication",
+          "description": "Provide top-notch customer service through real-time support availability within the portal. Offer live chat, AI-powered chatbot assistance, or quick access to customer service representatives, ensuring that help is always available when your customers need it.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/capabilities/section-one-icon-fifteen.svg",
+          "bgColor": "#FF00FF",
+          "title": "Documentation Sharing",
+          "description": "Easily share important documents, invoices, contracts, and product information with secure, centralized access. Ensure your team and stakeholders always have the latest information, reducing delays and improving communication.",
+          "width": 42,
+          "height": 42
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainImage": "/solutions/capabilities/section-two-main-image.png",
+      "mainHeading": "Empowering Your Business with Advanced AI Capabilities",
+      "mainParagraph": "Discover how AI-driven tools elevate the KAISPE Customer Portal to new heights",
+      "gridData": [
+        {
+          "icon": "/solutions/capabilities/section-two-icon-one.svg",
+          "title": "Predictive Analytics",
+          "description": "Anticipate customer needs and optimize decision-making processes.",
+          "width": 23,
+          "height": 24
+        },
+        {
+          "icon": "/solutions/capabilities/section-two-icon-two.svg",
+          "title": "Smart Automation",
+          "description": "Use AI to automate routine tasks, improving efficiency and reducing errors.",
+          "width": 25,
+          "height": 25
+        },
+        {
+          "icon": "/solutions/capabilities/section-two-icon-three.svg",
+          "title": "Personalized Customer Experiences",
+          "description": "Leverage AI to deliver tailored solutions and recommendations.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/capabilities/section-two-icon-four.svg",
+          "title": "Dynamic Language Processing",
+          "description": "AI-powered translation and communication tools for seamless global operations.",
+          "width": 23,
+          "height": 25
+        }
+      ]
+    },
+    "sectionThree": {
+      "mainHeading": "Exclusive AI-Driven Features",
+      "gridData": [
+        {
+          "icon": "/solutions/capabilities/section-three-icon-one.svg",
+          "description": "AI-enhanced data analysis for actionable insights.",
+          "width": 23,
+          "height": 24
+        },
+        {
+          "icon": "/solutions/capabilities/section-three-icon-two.svg",
+          "description": "Adaptive workflows based on real-time data trends",
+          "width": 25,
+          "height": 25
+        },
+        {
+          "icon": "/solutions/capabilities/section-three-icon-three.svg",
+          "title": "Personalized Customer Experiences",
+          "description": "Machine learning integrations to continuously improve operations",
+          "width": 28,
+          "height": 28
+        }
+      ],
+      "secondaryHeading": "Explore more about our AI Enhancements",
+      "mainButtonText": "AI Enhancement",
+      "mainButtonLink": "/solutions/ai-solutions"
+    },
+    "sectionFour": {
+      "mainHeading": "Why Choose KAISPE Customer Portal?",
+      "mainParagraph": "The KAISPE Customer Portal is the ultimate solution for businesses looking to streamline their customer management, improve operational efficiency, and enhance the customer experience. With comprehensive features ranging from payment integration to inventory management, everything you need to manage your customers is at your fingertips.",
+      "secondaryParagraph": "Ready to elevate your customer management experience? Start today with our",
+      "secondaryHeading": "Ready to elevate your customer management experience? Start today with our",
+      "secondaryHeadingHighlight": "Free Plan!"
+    }
+  },
+  "insightsPage": {
+    "bannerData": {
+      "mainHeading": "Solving Key Challenges with the KAISPE Customer Portal",
+      "mainParagraph": "At KAISPE, we understand the complexities of managing multiple systems and processes in today's fast-paced business environment. That's why we designed our Customer Portal to integrate seamlessly with your existing infrastructure, saving you time, reducing costs, and boosting overall efficiency. Here's how we help you overcome key challenges and transform your business"
+    },
+    "sectionOne": {
+      "mainHeading": "Overcoming Common Customer Portal Challenges",
+      "mainParagraph": "Implementing and managing a customer portal comes with its own set of challenges. From data organization to system integration, we address the most common issues businesses face when adopting a customer portal. Here's how we tackle each of these obstacles to ensure a smooth and successful implementation",
+      "gridData": [
+        {
+          "heading": "Data Organization",
+          "iconOne": "/solutions/insights/section-one-icon-one.svg",
+          "titleOne": "Challenge",
+          "descriptionOne": "A disorganized portal can frustrate users and lead to poor adoption rates. If information isn't easy to find or properly categorized, it creates unnecessary complexity for both customers and internal teams.",
+          "iconTwo": "/solutions/insights/section-one-icon-two.svg",
+          "titleTwo": "How KAISPE Solves This",
+          "descriptionTwo": "KAISPE excels in data management by ensuring that all information is neatly categorized and easily navigable. Whether it's orders, invoices, inventory, or customer profiles, our system ensures that data is accessible, well-organized, and simple to find—creating an optimal user experience and reducing the need for manual data retrieval."
+        },
+        {
+          "heading": "Encouraging Portal Use",
+          "iconOne": "/solutions/insights/section-one-icon-one.svg",
+          "titleOne": "Challenge",
+          "descriptionOne": "Simply launching a portal isn't enough. Encouraging customers to actively use the portal requires a compelling value proposition and regular engagement",
+          "iconTwo": "/solutions/insights/section-one-icon-two.svg",
+          "titleTwo": "How KAISPE Solves This",
+          "descriptionTwo": "We focus on providing a user-friendly interface and a seamless onboarding experience, ensuring customers quickly realize the value of the portal. With features like 24/7 access to accounts, easy payments, real-time updates, and more, KAISPE makes the portal indispensable for your customers' day-to-day operations, encouraging regular use and boosting engagement."
+        },
+        {
+          "heading": "Complex Interface",
+          "iconOne": "/solutions/insights/section-one-icon-one.svg",
+          "titleOne": "Challenge",
+          "descriptionOne": "A confusing, overly complex design can turn users away, resulting in high abandonment rates and frustration.",
+          "iconTwo": "/solutions/insights/section-one-icon-two.svg",
+          "titleTwo": "How KAISPE Solves This",
+          "descriptionTwo": "KAISPE offers a simple, intuitive design that fits the specific needs of your users. The portal adapts to your workflows, ensuring that navigation is straightforward, tasks are easy to complete, and the overall user experience is pleasant. We prioritize simplicity without sacrificing functionality, making it easier for your team and customers to interact with the system."
+        },
+        {
+          "heading": "Complex Interface",
+          "iconOne": "/solutions/insights/section-one-icon-one.svg",
+          "titleOne": "Challenge",
+          "descriptionOne": "Connecting the customer portal to your existing systems, such as CRM, billing, and ERP software, can be a complex and time-consuming process. Poor integration can cause delays, reduce data accuracy, and lead to maintenance issues.",
+          "iconTwo": "/solutions/insights/section-one-icon-two.svg",
+          "titleTwo": "How KAISPE Solves This",
+          "descriptionTwo": "Our platform is built for seamless integration. We make sure your portal works harmoniously with your existing tools and systems, eliminating the need for duplicate data entry and reducing manual errors. With KAISPE, integration is streamlined, and our team ensures a smooth transition with minimal disruption to your operations."
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainImage": "/solutions/insights/section-two-main-image.png",
+      "mainHeading": "Factors to Consider When Choosing KAISPE",
+      "mainParagraph": "When selecting a customer portal, it's essential to ensure that the platform aligns with your business needs and goals. Here are the key factors to consider when choosing KAISPE",
+      "gridData": [
+        {
+          "icon": "/solutions/insights/section-two-icon-one.svg",
+          "title": "Easy Integration",
+          "description": "Ensure the portal integrates seamlessly with your existing ERP, CRM, and procurement software to centralize data and streamline workflows.",
+          "width": 29,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/insights/section-two-icon-two.svg",
+          "title": "User-Friendly Interface",
+          "description": "Choose a portal that is intuitive and easy for both teams and customers to use. A smooth, simple interface boosts user adoption and satisfaction.",
+          "width": 25,
+          "height": 25
+        },
+        {
+          "icon": "/solutions/insights/section-two-icon-three.svg",
+          "title": "Customization",
+          "description": "Select a portal that can be tailored to your business needs, from branding to feature sets. KAISPE's flexibility allows for personalized experiences that align with your unique requirements.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/insights/section-two-icon-four.svg",
+          "title": "Security & Compliance",
+          "description": "Protect sensitive data with robust security features. KAISPE adheres to industry standards for data protection and ensures your business is always compliant with regulations.",
+          "width": 28,
+          "height": 28
+        }
+      ]
+    },
+    "sectionThree": {
+      "mainHeading": "Revolutionizing Business Insights with AI",
+      "mainParagraph": "Uncover how AI transforms your business operations with the KAISPE Customer Portal",
+      "gridData": [
+        {
+          "icon": "/solutions/insights/section-three-icon-one.svg",
+          "title": "Actionable Intelligence",
+          "description": "AI analyzes vast data sets to provide clear, actionable insights.",
+          "width": 63,
+          "height": 62
+        },
+        {
+          "icon": "/solutions/insights/section-three-icon-two.svg",
+          "title": "Real-Time Analytics",
+          "description": "Stay ahead with up-to-the-minute reports and forecasts.",
+          "width": 61,
+          "height": 63
+        },
+        {
+          "icon": "/solutions/insights/section-three-icon-three.svg",
+          "title": "Enhanced Problem-Solving",
+          "description": "AI identifies potential challenges and suggests solutions proactively.",
+          "width": 49,
+          "height": 63
+        }
+      ]
+    }
+  },
+  "aiSolutionsPage": {
+    "bannerData": {
+      "mainHeading": "Unleashing the Power of Artificial Intelligence",
+      "mainParagraph": "Discover how KAISPE' s AI-driven functionalities transform the way businesses operate. From smarter decision-making to real-time data insights, explore the wide array of features, benefits, capabilities, and use cases that make our AI integrations indispensable for modern enterprises."
+    },
+    "sectionOne": {
+      "gridData": [
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-one.svg",
+          "bgColor": "#2ECEA8",
+          "title": "AI Assistant",
+          "description": "Enhance productivity with an AI assistant that provides recommendations, automates routine tasks, and facilitates smarter decision-making.",
+          "width": 41,
+          "height": 41
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-two.svg",
+          "bgColor": "#FF00FF",
+          "title": "Predictive Analytics",
+          "description": "Leverage historical and real-time data to anticipate trends and customer needs.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-three.svg",
+          "bgColor": "#FEAD44",
+          "title": "Smart Automation",
+          "description": "Automate repetitive tasks and workflows, reducing manual intervention and errors.",
+          "width": 36,
+          "height": 36
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-four.svg",
+          "bgColor": "#5580FF",
+          "title": "Dynamic Language Processing",
+          "description": "Break language barriers with AI-powered translation tools for global communication.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-five.svg",
+          "bgColor": "#2ECEA8",
+          "title": "Real-Time Insights",
+          "description": "Receive up-to-date analytics to drive timely, informed decisions.",
+          "width": 33,
+          "height": 33
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-one-icon-six.svg",
+          "bgColor": "#FF00FF",
+          "title": "Machine Learning Models",
+          "description": "Continuously adapt and improve operations with self-learning algorithms.",
+          "width": 36,
+          "height": 36
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainImage": "/solutions/ai-solutions/section-two-main-image.png",
+      "mainHeading": "Key Capabilities",
+      "gridData": [
+        {
+          "icon": "/solutions/ai-solutions/section-two-icon-one.svg",
+          "title": "AI Assistant Functionality",
+          "description": "Provide real-time support, streamline communications, and execute tasks autonomously to improve operational efficiency.",
+          "width": 30,
+          "height": 29
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-two-icon-two.svg",
+          "title": "Seamless System Integration",
+          "description": "Effortlessly connect AI with existing ERP, CRM, and inventory systems.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-two-icon-three.svg",
+          "title": "Adaptive Workflows",
+          "description": "Use AI to modify processes dynamically based on data trends.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-two-icon-four.svg",
+          "title": "Enhanced Security",
+          "description": "Safeguard your operations with AI-driven fraud detection and risk management.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-two-icon-five.svg",
+          "title": "Scalability",
+          "description": "Scale AI features to grow with your business, ensuring long-term adaptability.",
+          "width": 25,
+          "height": 24
+        }
+      ],
+      "mainButtonText": "Book A Demo Now",
+      "mainButtonLink": "https://outlook.office365.com/book/KAISPE878766@NETORGFT2992819.onmicrosoft.com/?ismsaljsauthenabled=true"
+    },
+    "sectionThree": {
+      "mainHeading": "Major Benefits",
+      "gridData": [
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-one.svg",
+          "title": "AI Assistant Advantages",
+          "description": "Simplify daily tasks, enhance decision-making processes, and provide 24/7 support for your team.",
+          "width": 39,
+          "height": 39
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-two.svg",
+          "title": "Efficiency",
+          "description": "Streamline operations and eliminate bottlenecks with intelligent automation.",
+          "width": 37,
+          "height": 37
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-three.svg",
+          "title": "Cost Savings",
+          "description": "Reduce operational costs by optimizing workflows and minimizing errors.",
+          "width": 42,
+          "height": 42
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-four.svg",
+          "title": "Enhanced Decision-Making",
+          "description": "Utilize real-time insights to make proactive and strategic business choices.",
+          "width": 34,
+          "height": 34
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-five.svg",
+          "title": "Customer Satisfaction",
+          "description": "Improve service delivery with personalized, AI-driven interactions.",
+          "width": 39,
+          "height": 39
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-three-icon-six.svg",
+          "title": "Competitive Edge",
+          "description": "Stay ahead in the market by leveraging cutting-edge AI technology.",
+          "width": 37,
+          "height": 37
+        }
+      ]
+    },
+    "sectionFour": {
+      "gridData": [
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-one.svg",
+          "title": "AI Assistant Applications",
+          "description": "From customer service chatbots to internal workflow management, the AI assistant offers versatile solutions to streamline operations and enhance engagement",
+          "width": 66,
+          "height": 77
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-two.svg",
+          "title": "Retail",
+          "description": "Predict demand trends, optimize inventory levels, and personalize customer shopping experiences.",
+          "width": 61,
+          "height": 63
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-three.svg",
+          "title": "Manufacturing",
+          "description": "Implement predictive maintenance to reduce downtime and enhance productivity.",
+          "width": 69,
+          "height": 75
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-four.svg",
+          "title": "Finance",
+          "description": "Detect fraud in real-time, ensuring secure and seamless transactions.",
+          "width": 69,
+          "height": 63
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-five.svg",
+          "title": "Healthcare",
+          "description": "Analyze patient data for better management and decision-making.",
+          "width": 51,
+          "height": 52
+        },
+        {
+          "icon": "/solutions/ai-solutions/section-four-icon-six.svg",
+          "title": "Logistics",
+          "description": "Optimize route planning and resource allocation for faster deliveries.",
+          "width": 61,
+          "height": 63
+        }
+      ]
+    },
+    "sectionFive": {
+      "mainHeading": "Start Your AI Journey",
+      "mainParagraph": "Ready to transform your operations? Explore the possibilities of AI with KAISPE Customer Portal. Contact us today to see how our AI-driven solutions can drive success for your business.",
+      "mainButtonText": "Contact Us",
+      "mainButtonLink": "/contact",
+      "secondaryButtonText": "API Documentation",
+      "secondaryButtonLink": "https://cpdoc.kaispe.com/#introduction"
+    }
+  },
+  "integrationPage": {
+    "bannerData": {
+      "mainHeading": "Integrated Ecosystem for Streamlined Operations",
+      "mainParagraph": "Connect your existing systems to the KAISPE Customer Portal and unlock the full potential of your operations with real-time data synchronization and seamless workflows. Whether it's inventory management, CRM platforms, or leading ERP systems like Microsoft Dynamics 365, SAP, or Oracle, KAISPE ensures accurate data flow, improved efficiency, and centralized operations."
+    },
+    "sectionOne": {
+      "mainImage": "/resources/integration/section-one-main-image.png",
+      "mainHeading": "Seamless Workflow, Maximum Efficiency with KPoD Proof of Delivery",
+      "mainParagraph": "Maximize procurement efficiency by integrating with our Purchase Requisition App to simplify approvals and requisition processes:",
+      "gridData": [
+        {
+          "icon": "/resources/integration/section-one-icon-one.svg",
+          "title": "Accurate Delivery Confirmation",
+          "description": "Every delivery is tracked and verified with detailed information, including e-signatures and photos, ensuring transparency and eliminating disputes.",
+          "width": 29,
+          "height": 28
+        },
+        {
+          "icon": "/resources/integration/section-one-icon-two.svg",
+          "title": "Real-Time Tracking",
+          "description": "Monitor deliveries in real time, reducing delays and improving customer satisfaction. Access proof of delivery instantly via the portal for enhanced visibility.",
+          "width": 25,
+          "height": 25
+        },
+        {
+          "icon": "/resources/integration/section-one-icon-three.svg",
+          "title": "Improved Customer Experience",
+          "description": "Customers can track their deliveries and view proof of delivery directly in the portal, boosting trust and satisfaction.",
+          "width": 28,
+          "height": 28
+        }
+      ],
+      "mainButtonText": "Learn More",
+      "mainButtonLink": "https://kpod.kaispe.com"
+    },
+    "sectionTwo": {
+      "mainHeading": "Seamless Integration with Retail Systems",
+      "mainParagraph": "KAISPE's Customer Portal is fully compatible with your existing retail systems, including inventory management, sales, and CRM platforms. With this integration, you'll experience:",
+      "gridData": [
+        {
+          "icon": "/resources/integration/section-two-icon-one.svg",
+          "title": "Accurate Data Flow",
+          "description": "Eliminate discrepancies by ensuring consistent data transfer between systems. This improves communication across departments and reduces errors caused by manual data entry.",
+          "width": 38,
+          "height": 37
+        },
+        {
+          "icon": "/resources/integration/section-two-icon-two.svg",
+          "title": "Improved Efficiency",
+          "description": "Centralized data empowers your teams to make better decisions faster and enhances operational workflows. Access real-time insights and data across all business functions.",
+          "width": 35,
+          "height": 39
+        },
+        {
+          "icon": "/resources/integration/section-two-icon-three.svg",
+          "title": "Faster Decision-Making",
+          "description": "By consolidating all your data in one place, KAISPE helps you make data-driven decisions that boost performance and support long-term growth.",
+          "width": 35,
+          "height": 38
+        }
+      ]
+    },
+    "sectionThree": {
+      "mainImage": "/resources/integration/section-three-main-image.png",
+      "mainHeading": "Microsoft Dynamics 365 & ERP Integration",
+      "mainParagraph": "Integrating the KAISPE Customer Portal with popular ERP systems like Microsoft Dynamics 365, SAP, and Oracle is seamless and efficient. Here's how our integration supports your enterprise",
+      "gridData": [
+        {
+          "icon": "/resources/integration/section-three-icon-one.svg",
+          "title": "Real-Time Syncing",
+          "description": "Synchronize data in real-time across finance, procurement, and inventory, ensuring up-to-date information for better decisions and efficiency.",
+          "width": 27,
+          "height": 26
+        },
+        {
+          "icon": "/resources/integration/section-three-icon-two.svg",
+          "title": "Unified Operations",
+          "description": "Gain an integrated view of operations, streamlining workflows and enhancing team coordination across procurement, finance, and inventory.",
+          "width": 28,
+          "height": 28
+        },
+        {
+          "icon": "/resources/integration/section-three-icon-three.svg",
+          "title": "Streamlined Processes",
+          "description": "Automate tasks like data entry and order processing, freeing time for strategic business growth.",
+          "width": 27,
+          "height": 28
+        }
+      ]
+    },
+    "sectionFour": {
+      "mainHeading": "Built for Your Business Needs",
+      "mainParagraph": "At KAISPE, we understand that no two businesses are the same. That's why our API documentation is specifically designed to support easy integration with your systems, saving time and effort. Whether you're automating order processing, integrating payment systems, or linking KPoD Proof of Delivery features, our flexible APIs ensure smooth integration with minimal disruption to your business operations."
+    },
+    "sectionFive": {
+      "mainHeading": "Start Integrating Today",
+      "mainParagraph": "Explore the full potential of KAISPE by integrating it into your existing ecosystem. With simple, fast, and efficient integration processes, you'll experience reduced overhead, improved data flow, and better visibility into your operations.",
+      "mainButtonText": "API Documentation",
+      "mainButtonLink": "https://cpdoc.kaispe.com/#introduction"
+    }
+  },
+  "faqPage": {
+    "bannerData": {
+      "mainHeading": "Frequently Asked Questions",
+      "mainParagraph": "Find quick answers to common questions about the platform's features, functionality, and support to help you get started with ease."
+    },
+    "sectionOne": {
+      "faqSection": [
+        {
+          "question": "Is there a limit to how many users I can add to my account?",
+          "answer": "You can add as many users as needed to your account. However, a minimum of 5 users is required to subscribe to any of our plans, whether it's Basic or Advanced. Please refer to your subscription plan details for further information on licensing and user limits."
+        },
+        {
+          "question": "Can I integrate the portal with other systems?",
+          "answer": "Yes, our portal supports integration with various third-party tools and systems such as Microsoft Dynamics 365, Azure AD, and others. You can contact us at info@kaispe.com for more details."
+        },
+        {
+          "question": "How do I report an issue with my subscription or order?",
+          "answer": "If you're facing any issues with your subscription or order, you can sign in and then submit a support ticket through the \"Support portal\" section. Our team will get back to you as soon as possible to resolve the issue or you can simply reach out to us at info@kaispe.com"
+        },
+        {
+          "question": "How do I renew my subscription?",
+          "answer": "You can renew your subscription by going to the \"Subscription Management\" section in the portal. There, you'll find options to renew, upgrade, or downgrade your current plan."
+        },
+        {
+          "question": "Can I assign different roles to my users?",
+          "answer": "Yes, as an admin, you can assign different roles and permissions to each user in your account. Go to the \"User Management\" section, where you can set roles such as Viewer, Editor, or Admin based on the needs of your team."
+        },
+        {
+          "question": "Can I cancel my subscription at any time?",
+          "answer": "Yes, you can cancel your subscription at any time from the \"Subscription Management\" section. Upon cancellation, your services will continue until the end of the current billing cycle, after which the subscription will not be renewed."
+        },
+        {
+          "question": "Is my data secure on the portal?",
+          "answer": "Absolutely. We prioritize the security of your data by using industry-standard encryption and following best practices for data protection. Your information is safe, and only authorized personnel can access it."
+        },
+        {
+          "question": "What happens if I don't renew my subscription?",
+          "answer": "If your subscription is not renewed by the end of the billing cycle, your account will be downgraded to a free plan with limited access. You will still have a 30-day grace period to renew your subscription without losing any data."
+        },
+        {
+          "question": "Can I assign multiple admins to manage the portal?",
+          "answer": "Yes, you can assign multiple admins to manage the portal. Simply go to the \"User Management\" section, select the users you wish to promote, and assign them the admin role."
+        },
+        {
+          "question": "How do I reset a user's access if they are locked out?",
+          "answer": "If a user is locked out, admins can reset their access through the \"User Management\" section. Simply find the user, click on \"Reset Password,\" and a reset link will be sent to their email address."
+        },
+        {
+          "question": "Can I export data from the portal?",
+          "answer": "Yes, you can export various reports and data from the \"Reports\" section in the portal. These exports are available in multiple formats, including Excel and PDF, making it easy to analyze or share information."
+        },
+        {
+          "question": "Will I receive reminders for subscription renewal?",
+          "answer": "Yes, we send automated reminders before your subscription is due for renewal. You'll receive these notifications via email, and they'll also appear in the portal under the \"Notifications\" section."
+        },
+        {
+          "question": "What happens to my data if I downgrade my subscription?",
+          "answer": "If you downgrade your subscription, you'll still retain access to your data, but some advanced features may be restricted based on the new plan. Your data will remain intact, and you can upgrade again at any time to regain full access."
+        },
+        {
+          "question": "What kind of support is available if I need help?",
+          "answer": "We offer multiple support channels, including live chat, email, and phone support."
+        },
+        {
+          "question": "How do I schedule a demo or training session?",
+          "answer": "If you're looking for a demo or training session, you can simply navigate to the home page and select the Book a demo button. Our team will schedule a session with you based on your availability to ensure you get the most out of the portal."
+        },
+        {
+          "question": "What should I do if I notice unauthorized activity on my account?",
+          "answer": "If you notice any suspicious or unauthorized activity, immediately contact info@kaispe.com. You can also change your password and review your account activity logs for additional security."
+        }
+      ]
+    }
+  },
+  "blogsPage": {
+    "bannerData": {
+      "mainHeading": "Blogs",
+      "mainParagraph": "Stay updated with the latest insights, useful tips, and stories that matter. Whether you're here to explore trends, learn something new, or just get inspired — our blog has something for everyone."
+    }
+  },
+  "pricingPage": {
+    "bannerData": {
+      "mainHeading": "Choose The Best Package As Per Your Requirements",
+      "mainParagraph": "Unsure which plan best suits your needs? Contact us for expert advice!"
+    },
+    "sectionOne": {
+      "freePlanPoints": [
+        "Admin account access",
+        "Customer account creation",
+        "Site and warehouse setup",
+        "Product creation tools",
+        "Limited invoice viewing",
+        "Email notifications and alerts",
+        "Support ticket creation"
+      ],
+      "basicPlanPoints": [
+        "Create sales orders, re-order",
+        "Account statement",
+        "View invoices",
+        "Notifications",
+        "View product catalogue",
+        "1 admin user included",
+        "Upto 5,000 customers"
+      ],
+      "advancePlanPoints": [
+        "Create sales orders, re-order",
+        "Account statement",
+        "View invoices",
+        "Notifications",
+        "View product catalogue",
+        "1 admin user included",
+        "Unlimited customers",
+        "Pay invoices",
+        "Shopping cart experience"
+      ]
+    },
+    "sectionTwo": {
+      "mainHeading": "Transform Your Operations with AI-Driven Benefits",
+      "mainParagraph": "No problem! Contact us for expert advice on how the KAISPE Customer Portal can be customized to fit your business needs. We're here to help you optimize your customer management, no matter the industry",
+      "mainButtonText": "Contact Us",
+      "mainButtonLink": "/contact"
+    },
+    "sectionThree": {
+      "mainHeading": "Frequently Asked Questions",
+      "mainParagraph": "Find quick answers to common questions about the platform's features, functionality, and support to help you get started with ease.",
+      "mainButtonText": "View All",
+      "mainButtonLink": "/resources/faqs"
+    }
+  },
+  "contactUsPage": {
+    "bannerData": {
+      "mainHeading": "Contact Us",
+      "mainParagraph": "Explore how a customer portal can streamline processes, improve communication, and eliminate common business challenges."
+    },
+    "sectionOne": {
+      "mainImage": "/contact/section-one-main-image.png",
+      "mainHeading": "Get In Touch",
+      "mainParagraph": "Get ready to take your business to the unmatched heights of success and embrace the fantastic abilities of the vendor portal. Use the vendor portal login to get started. Before you start, let's talk about your custom needs for business efficiency and productivity.",
+      "gridData": [
+        {
+          "title": "USA Office",
+          "address": "415 W. Golf Rd Suite 55-K Arlington Heights, IL 60005.",
+          "phone": "USA +1 315 791 4472"
+        },
+        {
+          "title": "UAE Office",
+          "address": "Meydan Grandstand 6th Floor, Meydan Road, Nada Al Sheba Dubai, UAE.",
+          "phone": "UAE +971 557 51 5069"
+        },
+        {
+          "title": "Pakistan Office",
+          "address": "Suite# 213 Sumya Business Avenue MACHS, Karachi, Pakistan.",
+          "phone": "PAK +92 213 432 6085"
+        },
+        {
+          "title": "Email",
+          "address": "info@kaispe.com"
+        }
+      ]
+    },
+    "sectionTwo": {
+      "mainHeading": "We Are Connected To Help Your Business!",
+      "mainHighlight": "GET IN TOUCH"
+    },
+    "sectionThree": {
+      "mainHeading": "Find Us on Google Maps",
+      "mainParagraph": "Discover our exact location effortlessly on Google Maps! With detailed directions, real-time navigation, and accurate markers, finding us has never been easier.",
+      "gridData": [
+        {
+          "title": "USA Office",
+          "address": "415 W. Golf Rd Suite 55-K Arlington Heights, IL 60005.",
+          "image": "/contact/section-two-image-one.png"
+        },
+        {
+          "title": "Pakistan Office",
+          "address": "Suite# 213 Sumya Business Avenue MACHS, Karachi, Pakistan.",
+          "image": "/contact/section-two-image-two.png"
+        }
+      ]
+    }
+  },
+  "privacyPolicyPage": {
+    "bannerData": {
+      "mainHeading": "Privacy Policy",
+      "mainParagraph": "We're here to help! reach us by email us at info@kaispe.com for any quries or concerns."
+    },
+    "mainHeadings": {
+      "effectiveDate": "Effective Date: April 2025",
+      "mainHeadline": "Your privacy matters to us. This Privacy Policy explains how KAISPE collects, uses, and protects your information when you use our SaaS application.",
+      "endHeading": "Thank you for trusting KAISPE. We're committed to protecting your privacy."
+    },
+    "gridData": [
+      {
+        "title": "Information We Collect",
+        "desOne": "We collect only what's needed to deliver and improve your experience:",
+        "points": [
+          "Your name, email, company name, and plan type",
+          "Usage data to understand how you interact with the app",
+          "Support-related communication"
+        ],
+        "desTwo": "We do not collect payment information directly. That&apos;s handled securely by our trusted payment partners."
+      },
+      {
+        "title": "How We Use Your Information",
+        "desOne": "We use your data to:",
+        "points": [
+          "Provide access to the app",
+          "Improve features and performance",
+          "Offer support when needed",
+          "Send important notifications (like billing or system updates)"
+        ]
+      },
+      {
+        "title": "Your Data Belongs to You",
+        "desOne": "You own everything you upload or create. We don't:",
+        "points": [
+          "Sell your data",
+          "Share it with advertisers",
+          "Use it beyond what's stated here"
+        ],
+        "desTwo": "We access your data only for support or improvements—never without reason."
+      },
+
+      {
+        "title": "Security",
+        "desOne": "We use industry-standard security measures to protect your data, including:",
+        "points": [
+          "Encrypted connections",
+          "Secure server environments",
+          "Strict internal access controls"
+        ],
+        "desTwo": "Still, no system is 100% secure, so we recommend strong passwords on your end too."
+      },
+      {
+        "title": "Data Retention",
+        "desOne": "If you cancel your subscription, we retain your data for 30 days to let you export it. After that, it may be permanently deleted from our servers."
+      },
+      {
+        "title": "Sharing Information",
+        "desOne": "We don't share your information except:",
+        "points": [
+          "With trusted service providers who help us run the platform (like hosting or email services)",
+          "When legally required (and we'll notify you where we can)"
+        ]
+      },
+      {
+        "title": "Cookies & Analytics",
+        "desOne": "We use minimal cookies to keep you logged in and gather insights to improve performance. You can control cookies through your browser settings."
+      },
+      {
+        "title": "Your Choices",
+        "desOne": "You can:",
+        "points": [
+          "View or update your account information anytime",
+          "Cancel your plan",
+          "Request data export or deletion"
+        ],
+        "desTwo": "To request changes, email us at info@kaispe.com"
+      },
+      {
+        "title": "Changes to This Policy",
+        "desOne": "If we update this policy, we'll notify you through the app or via email. The latest version will always be available in the app footer."
+      },
+      {
+        "title": "Contact Us",
+        "desOne": "Got questions or privacy concerns? Reach out anytime:",
+        "desTwo": "info@kaispe.com"
+      }
+    ]
+  },
+  "termsAndConditionsPage": {
+    "bannerData": {
+      "mainHeading": "Terms & Conditions",
+      "mainParagraph": "Welcome! These Terms & Conditions govern your use of our SaaS application provided by KAISPE. By accessing or using our application, you agree to be bound by these Terms."
+    },
+    "mainHeadings": {
+      "effectiveDate": "Effective Date: April 2025",
+      "mainHeadline": "Your privacy matters to us. This Privacy Policy explains how KAISPE collects, uses, and protects your information when you use our SaaS application.",
+      "endHeading": "Thanks for being a valued part of the KAISPE community!"
+    },
+    "gridData": [
+      {
+        "title": "Access to the Application",
+        "desOne": "You are granted a non-exclusive, non-transferable, limited license to use the application via the internet, according to the features included in your selected plan (Free, Basic, or Advance). No software download or hardware installation is required."
+      },
+      {
+        "title": "Data Ownership and Privacy",
+        "desOne": "All content you create or upload remains your property.",
+        "points": [
+          "We do not sell or share your data.",
+          "We only access your data to provide support or improve services.",
+          "If required by law, we will comply with legal obligations responsibly. Please refer to our Privacy Policy for more details."
+        ]
+      },
+      {
+        "title": "Subscription and Billing",
+        "desOne": "For paid plans:",
+        "points": [
+          "Billing is done monthly or annually, as per your selection.",
+          "You will be notified prior to renewal.",
+          "If payment fails or your subscription expires, access to certain features may be restricted until updated."
+        ]
+      },
+      {
+        "title": "Plan Limits",
+        "desOne": "Your access and usage are subject to the limits specified in your selected plan.",
+        "points": [
+          "Upgrades or additional features may require a separate subscription or add-on."
+        ]
+      },
+      {
+        "title": "Support and Updates",
+        "desOne": "We regularly update the platform to improve functionality and performance.",
+        "points": [
+          "All plans receive updates automatically.",
+          "Paid plans are eligible for priority customer support."
+        ]
+      },
+      {
+        "title": "Cancellation and Data Retention",
+        "desOne": "You may cancel your subscription at any time.",
+        "points": [
+          "After cancellation, your data will remain accessible for a limited period (typically 30 days) for export.",
+          "After this period, your data may be permanently removed from our systems."
+        ]
+      },
+      {
+        "title": "Custom Integrations",
+        "desOne": "Any integration with external systems (e.g., ERP, CRM, or other tools) is considered a separate service and may involve additional scope, timelines, and costs."
+      },
+      {
+        "title": "Service Availability",
+        "desOne": "We aim to maintain high uptime. However, occasional maintenance or service interruptions may occur.",
+        "desTwo": "We will make reasonable efforts to notify you in advance."
+      },
+      {
+        "title": "Fair Usage",
+        "desOne": "You agree to use the application in a lawful and responsible manner. We reserve the right to suspend or terminate access if any misuse, abuse, or violation of these Tersms occurs."
+      },
+      {
+        "title": "Changes to Terms",
+        "desOne": "We may revise these Terms from time to time. Continued use of the application after updates means you accept the modified Terms."
+      },
+      {
+        "title": "Contact Us",
+        "desOne": "Got questions or privacy concerns? Reach out anytime:",
+        "desTwo": "info@kaispe.com"
+      }
+    ]
+  },
+  "footer": {
+    "mainImage": "/footer-main-image.png",
+    "mainHeading": "Centralized Customer Portal Software Addressing All-in-One Client Needs",
+    "mainButtonText": "Book A Demo",
+    "mainButtonLink": "https://outlook.office365.com/book/KAISPE2606240@NETORGFT2992819.onmicrosoft.com/",
+    "secondaryButtonText": "Try For Free",
+    "secondaryButtonLink": "/pricing",
+    "kaispeLogo": "/kaispe-logo-white.svg",
+    "description": "KAISPE has been providing solutions and services to customers using Microsoft Dynamics, Azure, Power Platform, Oracle NetSuite, mobile and web app development.",
+    "microsoftGoldPartner": "/microsoft-gold-partner-icon.svg",
+    "microsoftPurpleIcon": "/microsoft-purple-icon.svg",
+    "microsoftblueIcon": "/microsoft-blue-icon.svg",
+    "overview": [
+      {
+        "label": "Industries",
+        "href": "/industries"
+      },
+      {
+        "label": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "label": "About Us",
+        "href": "https://www.kaispe.com/company",
+        "target": "_blank"
+      },
+      {
+        "label": "Blogs",
+        "href": "/resources/blogs"
+      },
+      {
+        "label": "Customer Stories",
+        "href": "https://www.kaispe.com/customer-stories",
+        "target": "_blank"
+      },
+      {
+        "label": "AI Solutions",
+        "href": "/solutions/ai-solutions"
+      }
+    ],
+    "quickAccess": [
+      {
+        "label": "Benefits",
+        "href": "/solutions/benefits"
+      },
+      {
+        "label": "Capabilities",
+        "href": "/solutions/capabilities"
+      },
+      {
+        "label": "Insights",
+        "href": "/solutions/insights"
+      },
+      {
+        "label": "Integration",
+        "href": "/resources/integration"
+      },
+      {
+        "label": "Documentation",
+        "href": "https://cpdoc.kaispe.com/#introduction",
+        "target": "_blank"
+      },
+      {
+        "label": "Videos",
+        "href": "/"
+      }
+    ],
+    "email": "info@kaispe.com",
+    "contactNumbers": [
+      "USA : (+1) 315 791 4472",
+      "UAE : (+971)-557-51-5069",
+      "PAK : (+92) 213 432 6085"
+    ],
+    "addresses": [
+      "415 W. Golf Rd Suite 55-K Arlington Heights, IL 60005.",
+      "Meydan Grandstand 6th Floor, Meydan Road, Nada Al Sheba Dubai, UAE.",
+      "Suite#213 Sumya Business Avenue MACHS Karachi, Pakistan."
+    ]
+  }
+}
